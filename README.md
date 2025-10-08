@@ -25,13 +25,5 @@ Seluruh latihan dikerjakan menggunakan HTML dan CSS dasar, serta telah divalidas
 
 <img width="1366" height="768" alt="Screenshot 2025-10-08 100641" src="https://github.com/user-attachments/assets/de597c5d-8fe4-45b1-bbd4-5dbff1c27d70" />
 
-<img width="1366" height="768" alt="Screenshot 2025-10-08 100921" src="https://github.com/user-attachments/assets/184942e3-f41e-4b16-b2df-5c62246c6da8" />
-
-<img width="1366" height="768" alt="Screenshot 2025-10-08 101214" src="https://github.com/user-attachments/assets/ebb4bf52-5778-41ff-9121-cb064211dc85" />
-
-<img width="1366" height="768" alt="Screenshot 2025-10-08 101239" src="https://github.com/user-attachments/assets/ad6f9d0f-3b93-437d-8c31-8cc8b45a4381" />
-
-<img width="1366" height="768" alt="Screenshot 2025-10-08 101259" src="https://github.com/user-attachments/assets/79d06bb8-50f3-4990-8522-53f9af401a43" />
-
 
 6. README.md → penjelasan langkah-langkah pengerjaan praktikum disertai dokumentasi visual.
