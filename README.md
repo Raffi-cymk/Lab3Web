@@ -26,4 +26,4 @@ Seluruh latihan dikerjakan menggunakan HTML dan CSS dasar, serta telah divalidas
 <img width="1366" height="768" alt="Screenshot 2025-10-08 100641" src="https://github.com/user-attachments/assets/de597c5d-8fe4-45b1-bbd4-5dbff1c27d70" />
 
 
-6. README.md → penjelasan langkah-langkah pengerjaan praktikum disertai dokumentasi visual.
+5. README.md → penjelasan langkah-langkah pengerjaan praktikum disertai dokumentasi visual.
